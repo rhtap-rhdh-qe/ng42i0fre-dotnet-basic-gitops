@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: ng42i0fre-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/ng42i0fre-dotnet-basic
